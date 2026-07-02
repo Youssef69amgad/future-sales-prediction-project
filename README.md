@@ -1,1 +1,1 @@
-# future-sales-prediction-project
+# real-time sign language to text & speech system
